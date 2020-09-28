@@ -215,7 +215,7 @@
     Fakultas \fakultas \\*%
     Institut Teknologi Sepuluh Nopember \\*%
     Surabaya, \tahun \\*%
-    \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{img/sampul.png}}%
+    \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{img/sampul-scientics-matematika.png}}%
     \rmfamily%
     \normalsize%
     \restoregeometry%
@@ -236,7 +236,7 @@
     Fakultas \fakultas \\*%
     Institut Teknologi Sepuluh Nopember \\*%
     Surabaya, \tahun \\*%
-    \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{img/sampulWhite.png}}%
+    \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{img/sampul-scientics-matematika-white.png}}%
     \rmfamily%
     \normalsize%
     \restoregeometry%
